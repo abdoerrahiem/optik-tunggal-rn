@@ -1,0 +1,156 @@
+{
+    // Navigation Titles
+    "Akun": "Akun",
+    "Masuk": "Masuk",
+    "Lupa PIN": "Lupa PIN",
+    "Hallo": "Hallo",
+    "Silahkan isi Data Pribadi Kamu": "Silahkan isi Data Pribadi Kamu",
+    "Masukan Kode Verifikasi yg Dikirimkan ke Alamat Email Anda": "Masukan Kode Verifikasi yg Dikirimkan ke Alamat Email Anda",
+    "Di Mana Kamu Berada": "Di Mana Kamu Berada",
+    "Isi Kolom Alamat Lengkap Di Bawah Ini": "Isi Kolom Alamat Lengkap Di Bawah Ini",
+    "Masukan PIN Kamu": "Masukan PIN Kamu",
+    "Kombinasi huruf besar, kecil, angka": "Kombinasi huruf besar, kecil, angka",
+    "Keamanan Akun": "Keamanan Akun",
+    "Ulasan": "Ulasan",
+    "Edit Profil": "Edit Profil",
+    "Syarat & Ketentuan": "Syarat & Ketentuan",
+    "Kebijakan Privasi": "Kebijakan Privasi",
+
+    // Account
+    "Ganti Bahasa": "Ganti Bahasa",
+    "Daftar": "Daftar",
+    "Akun Saya": "Akun Saya",
+    "Verifikasi Akun": "Verifikasi Akun",
+    "Pengaturan akun": "Pengaturan akun",
+    "Daftar Alamat": "Daftar Alamat",
+    "Atur alamat pengiriman belanjaan": "Atur alamat pengiriman belanjaan",
+    "PIN & verifikasi data diri": "PIN & verifikasi data diri",
+    "Daftar ulasan produk yg sudah dibeli": "Daftar ulasan produk yg sudah dibeli",
+    "Daftar Transaksi": "Daftar Transaksi",
+    "Daftar transaksi produk yg sudah dibeli": "Daftar transaksi produk yg sudah dibeli",
+    "Keranjang": "Keranjang",
+    "Daftar produk yg ditambahkan ke keranjang belanja": "Daftar produk yg ditambahkan ke keranjang belanja",
+    "Seputar Kami": "Seputar Kami",
+    "Ulas Aplikasi ini": "Ulas Aplikasi ini",
+    "Keluar Akun": "Keluar Akun",
+
+    // Register
+    "Mohon masukkan nama Anda secara lengkap.": "Mohon masukkan nama Anda secara lengkap.",
+    "Mohon masukkan nomor telepon Anda.": "Mohon masukkan nomor telepon Anda.",
+    "Mohon masukkan alamat email Anda.": "Mohon masukkan alamat email Anda.",
+    "Mohon masukkan alamat email yang valid.": "Mohon masukkan alamat email yang valid.",
+    "Mohon pilih file foto KTP/NPWP Anda.": "Mohon pilih file foto KTP/NPWP Anda.",
+    "Mohon pilih file untuk foto profil Anda.": "Mohon pilih file untuk foto profil Anda.",
+    "Nama Depan": "Nama Depan",
+    "Nama Belakang": "Nama Belakang",
+    "Nomor Telepon": "Nomor Telepon",
+
+    "Email": "Email",
+    "Upload KTP/NPWP": "Upload KTP/NPWP",
+    "Upload Foto": "Upload Foto",
+    "Lanjut": "Lanjut",
+    "Saya sudah memiliki akun": "Saya sudah memiliki akun",
+    "Registrasi akun bermasalah": "Registrasi akun bermasalah",
+
+    // Forgot Password
+    "Masukkan Alamat Email": "Masukkan Alamat Email",
+    "Optik Tunggal akan mengirim password baru\nmenuju alamat email Anda.": "Optik Tunggal akan mengirim password baru\nmenuju alamat email Anda.",
+    "Reset PIN": "Reset PIN",
+
+    // Login
+    "Mohon masukkan PIN Anda.": "Mohon masukkan PIN Anda.",
+    "Email atau password salah.": "Email atau password salah.",
+    "Masukkan PIN": "Masukkan PIN",
+    "Lupa PIN saya": "Lupa PIN saya",
+
+    // Verification
+    "Kode OTP belum lengkap.": "Kode OTP belum lengkap.",
+    "Kode verifikasi tidak valid": "Kode verifikasi tidak valid",
+    "Masukkan Kode Verifikasi": "Masukkan Kode Verifikasi",
+    "Kode Verifikasi Dikirimkan Lewat Email": "Kode Verifikasi Dikirimkan Lewat Email",
+    "Kirim ulang kode verifikasi": "Kirim ulang kode verifikasi",
+
+    // Address Edit
+    "Konfirmasi": "Konfirmasi",
+    "Tambah Alamat": "Tambah Alamat",
+    "Edit Alamat": "Edit Alamat",
+    "Nomor HP sudah terdaftar.": "Nomor HP sudah terdaftar.",
+    "Email sudah terdaftar.": "Email sudah terdaftar.",
+
+    "Mohon masukkan nama penerima.": "Mohon masukkan nama penerima.",
+    "Mohon masukkan nomor telepon penerima.": "Mohon masukkan nomor telepon penerima.",
+    "Mohon pilih daerah Anda secara lengkap.": "Mohon pilih daerah Anda secara lengkap.",
+    "Mohon masukkan RT dan RW.": "Mohon masukkan RT dan RW.",
+    "Mohon masukkan alamat lengkap tujuan pengiriman.": "Mohon masukkan alamat lengkap tujuan pengiriman.",
+    "Mohon pilih posisi Anda pada peta.": "Mohon pilih posisi Anda pada peta.",
+    "Pilih Provinsi": "Pilih Provinsi",
+    "Pilih Kota/Kabupaten": "Pilih Kota/Kabupaten",
+    "Mohon pilih Provinsi.": "Mohon pilih Provinsi.",
+    "Pilih Kecamatan": "Pilih Kecamatan",
+    "Mohon pilih Kota/Kabupaten.": "Mohon pilih Kota/Kabupaten.",
+    "Pilih Kelurahan": "Pilih Kelurahan",
+    "Mohon pilih Kecamatan.": "Mohon pilih Kecamatan.",
+    "Pilih": "Pilih",
+    "Informasi Penerima": "Informasi Penerima",
+    "Nama Penerima": "Nama Penerima",
+    "Detail Alamat": "Detail Alamat",
+    "RT": "RT",
+    "RW": "RW",
+    "Alamat": "Alamat",
+    "Mohon letakan pin dengan akurat\nagar kami bisa mengantar ke alamat yg tepat": "Mohon letakan pin dengan akurat\nagar kami bisa mengantar ke alamat yg tepat",
+    "Simpan": "Simpan",
+
+    // Address List
+    "Alamat Pengiriman": "Alamat Pengiriman",
+    "Pilih salah satu alamat": "Pilih salah satu alamat",
+    "Sudah Pinpoint": "Sudah Pinpoint",
+    "Ubah Alamat": "Ubah Alamat",
+    "Hapus Alamat": "Hapus Alamat",
+    "Apakah Anda ingin menghapus alamat ini": "Apakah Anda ingin menghapus alamat ini",
+    "Pilih Alamat": "Pilih Alamat",
+    "Belum ada alamat yang disimpan.": "Belum ada alamat yang disimpan.",
+
+    // Password Reset
+    "Ubah Kata Sandi": "Ubah Kata Sandi",
+    "Kode Verifikasi Akan Dikirimkan Lewat Email": "Kode Verifikasi Akan Dikirimkan Lewat Email",
+    "Reset Sandi": "Reset Sandi",
+    "Anda yakin mengatur ulang sandi?\nSandi baru akan dikirim ke alamat email Anda": "Anda yakin mengatur ulang sandi?\nSandi baru akan dikirim ke alamat email Anda",
+    "Batal": "Batal",
+    "Ya": "Ya",
+    "Buat Sandi Baru": "Buat Sandi Baru",
+    "Password baru telah dikirim ke email Anda.": "Password baru telah dikirim ke email Anda.",
+
+    // PIN Edit
+    "Masukkan minimal 6 karakter untuk PIN Anda.": "Masukkan minimal 6 karakter untuk PIN Anda.",
+    "PIN harus memiliki kombinasi huruf besar, kecil, dan angka.": "PIN harus memiliki kombinasi huruf besar, kecil, dan angka.",
+    "Mohon masukkan PIN dengan lengkap.": "Mohon masukkan PIN dengan lengkap.",
+    "Kedua PIN yang Anda masukkan belum sama.": "Kedua PIN yang Anda masukkan belum sama.",
+    "Masukan Kata Sandi Baru": "Masukkan Kata Sandi Baru",
+    "Kata Sandi Merupakan Kombinasi Huruf Besar, huruf Kecil & Angka": "Kata Sandi Merupakan Kombinasi Huruf Besar, huruf Kecil & Angka",
+    "Masukkan PIN Baru": "Masukkan PIN Baru",
+    "Verifikasi PIN": "Verifikasi PIN",
+    "Kirim": "Kirim",
+    "Selamat": "Selamat",
+    "Kata Sandimu Telah berhasil Dirubah!": "Kata Sandimu Telah berhasil Dirubah!",
+    "Terimakasih telah bergabung dengan kami!": "Terimakasih telah bergabung dengan kami!",
+    "Selamat Datang": "Selamat Datang",
+
+    // Profile Edit
+    "Terjadi kesalahan saat menyimpan.": "Terjadi kesalahan saat menyimpan.",
+    "Biarkan kosong jika tidak merubah foto.": "Biarkan kosong jika tidak merubah foto.",
+
+    // Review List
+    "Menunggu Diulas": "Menunggu Diulas",
+    "Belum ada produk yang dapat diulas.": "Belum ada produk yang dapat diulas.",
+    "Riwayat": "Riwayat",
+    "Belum ada riwayat ulasan.": "Belum ada riwayat ulasan.",
+    "Ulas Produk": "Ulas Produk",
+    "Pilih bintang untuk menentukan skor produk": "Pilih bintang untuk menentukan skor produk",
+    "Mohon tuliskan ulasan Anda untuk produk ini.": "Mohon tuliskan ulasan Anda untuk produk ini.",
+    "Yuk, ceritain kepuasanmu tentang\nkualitas barang & pelayanan penjual": "Yuk, ceritain kepuasanmu tentang\nkualitas barang & pelayanan penjual",
+    "Kirim Ulasan": "Kirim Ulasan",
+    "Terima kasih! Ulasan Anda telah disimpan.": "Terima kasih! Ulasan Anda telah disimpan.",
+
+    // Final
+    "": ""
+}

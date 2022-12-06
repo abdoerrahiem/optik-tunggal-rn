@@ -1,0 +1,12 @@
+export { default as Walk1 } from './walk-1.svg';
+export { default as Walk2 } from './walk-2.svg';
+export { default as Walk3 } from './walk-3.svg';
+export { default as Walk4 } from './walk-4.svg';
+export { default as Walk5 } from './walk-5.svg';
+export { default as WalkBgMain } from './walk-bg-main.svg';
+export { default as WalkBg1 } from './walk-bg-1.svg';
+export { default as WalkBg2 } from './walk-bg-2.svg';
+export { default as WalkBg3 } from './walk-bg-3.svg';
+export { default as WalkBg4 } from './walk-bg-4.svg';
+export { default as WalkBg5 } from './walk-bg-5.svg';
+export { default as LogoCircle } from './app-logo-circle.svg';

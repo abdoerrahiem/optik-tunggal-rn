@@ -1,0 +1,28 @@
+{
+  "name": "OptikTunggal",
+  "displayName": "Optik TUnggal",
+
+  "app_version": 1.000,
+  "app_version_text": "1.0.0",
+  "app_version_ios": 1.000,
+  "app_version_ios_text": "1.0.0",
+
+  "URL_APP_UPDATE": "https://optiktunggal.com/download/android",
+  "URL_APP_UPDATE_IOS": "https://optiktunggal.com/download/ios",
+
+  "URL_WEBSITE": "https://optiktunggal.com",
+  "URL_SOCIAL_WHATSAPP": "whatsapp://send?text=Hi,+Optik+Tunggal&phone=6281211801703",
+  "URL_SOCIAL_YOUTUBE": "https://www.youtube.com/c/OptikTunggalOfficial/channels",
+  "URL_SOCIAL_FACEBOOK": "",
+  "URL_SOCIAL_INSTAGRAM": "instagram://user?username=optiktunggal",
+
+  "API_URL": "https://apps.ots.web.id/apimobileapps",
+  "API_OT_URL": "https://apps.ots.web.id/apimobileapps",
+
+  "API_URL_": "https://8cab-182-253-200-165.ngrok.io/api_optiktunggal",
+  "API_OT_URL_": "https://8cab-182-253-200-165.ngrok.io/api_optiktunggal",
+
+  "STORAGE_KEY": "@optiktunggal",
+
+  "GMAPS_API_KEY": "AIzaSyChYVr4zqShAlWZpqLHn4gU3tupos93VoU"
+}

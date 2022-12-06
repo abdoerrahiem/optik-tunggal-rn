@@ -1,0 +1,67 @@
+{
+    // Navigation Titles
+    "Notifikasi": "Notification",
+    "Daftar Transaksi": "Transactions",
+    "Detail Transaksi": "Transaction Detail",
+    "Detail Promotion": "Promotion Detail",
+
+    // Notification
+    "Transaksi": "Transaction",
+    "Transaksi_other": "Transactions",
+    "Promosi": "Promotion",
+    "Promosi_other": "Promotions",
+
+    // Transaction List
+    "Belum ada transaksi.": "There's no transactions yet.",
+    "Belanja": "Shopping",
+    "Produk": "Products",
+    "Total Belanja": "Total Purchase",
+    "Lihat Detail": "View Detail",
+    "Detail Produk": "Product Detail",
+    "Barang": "Product",
+    "Barang_other": "Products",
+    "Subtotal": "Subtotal",
+    "Info Pengiriman": "Delivery Info",
+    "Alamat": "Address",
+    "Info Pembayaran": "Payment Info",
+    "Metode Pembayaran": "Payment Method",
+    "Total Harga": "Total Price",
+    "Total Ongkos Kirim": "Delivery Price",
+    "Gratis": "Free",
+    "Total Bayar": "Grand Total",
+    "Upload Bukti Bayar": "Upload Payment Receipt",
+    "Bayar ke Driver": "Pay to Driver",
+    "Silahkan scan Barcode pada Driver yg mengantar pesanan Anda.": "Please scan the Barcode by the Driver who deliver your products.",
+    "Kirim bukti pembayaran dengan cara upload foto bukti transfer atau bukti pembayaran untuk transaksi ini.": "Send your payment confirmation receipt by uploading the picture proof of the payment for this transaction.",
+    "Nomor Invoice Pesanan Kamu Adalah": "Your Invoice Number is",
+    "Kirim Bukti Bayar": "Send Payment Receipt",
+    "Pesanan Kamu": "Your Purchases",
+    "Berikut nomor invoice pesanan kamu! Mohon tunjukan ke driver motor/mobil Getall yang datang.": "This is your invoice number! Please show it to the driver who deliver using GetAll vehicle.",
+    "Pembayaran Diverifikasi": "Payment has been verified",
+    "Pesanan COD Berhasil": "COD Transaction Success",
+    "Terimakasih! Barang akan segera dikirim ke rumahmu!": "Thank you! Products will be sent to your home soon!",
+    "Detail Status Pemesanan": "Purchase Status Detail",
+    "Belum ada riwayat status pemesanan.": "There's no purchase history yet.",
+    "Transfer Menuju": "Transfer To",
+    "Nama Bank": "Bank Name",
+    "No. Rekening": "Bank Number",
+    "Atas Nama": "Account Name",
+    "Pemesanan dibuat": "Order has been made",
+    "Bukti pembayaran dikirim": "Payment request has been sent",
+    "Pembayaran sudah diverifikasi\nPembayaran sudah diterima": "Payment has been verified\nPayment received",
+    "Barang sedang dikirim": "Products is on delivery",
+    "Barang sampai di tujuan": "Products has been delivered",
+    "Barang diterima": "Products has been received",
+
+    // Transaction Detail
+    "Transaksi belum dapat ditampilkan.": "Transaction cannot be displayed.",
+    "Transaksi tidak dapat ditemukan": "Transaction not found",
+    "Kembali": "Back",
+
+    // Promotion List
+    "Saat ini belum ada Promotion": "There's no Promotions at the moment",
+
+    // Promotion Detail
+    "Promotion tidak tersedia": "This Promotion is not available"
+
+}

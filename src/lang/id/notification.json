@@ -1,0 +1,65 @@
+{
+    // Navigation Titles
+    "Notifikasi": "Notifikasi",
+    "Daftar Transaksi": "Daftar Transaksi",
+    "Detail Transaksi": "Detail Transaksi",
+    // "Promotion Optik TUnggal": "Promotion Optik TUnggal",
+    "Detail Promotion": "Detail Promotion",
+
+    // Notification
+    "Transaksi": "Transaksi",
+    "Promotion": "Promotion",
+
+    // Transaction List
+    "Belum ada transaksi.": "Belum ada transaksi.",
+    "Belanja": "Belanja",
+    "Produk": "Produk",
+    "Total Belanja": "Total Belanja",
+    "Lihat Detail": "Lihat Detail",
+    "Detail Produk": "Detail Produk",
+    "Barang": "Barang",
+    "Subtotal": "Subtotal",
+    "Info Pengiriman": "Info Pengiriman",
+    "Alamat": "Alamat",
+    "Info Pembayaran": "Info Pembayaran",
+    "Metode Pembayaran": "Metode Pembayaran",
+    "Total Harga": "Total Harga",
+    "Total Ongkos Kirim": "Total Ongkos Kirim",
+    "Gratis": "Gratis",
+    "Total Bayar": "Total Bayar",
+    "Upload Bukti Bayar": "Upload Bukti Bayar",
+    "Bayar ke Driver": "Bayar ke Driver",
+    "Silahkan scan Barcode pada Driver yg mengantar pesanan Anda.": "Silahkan scan Barcode pada Driver yg mengantar pesanan Anda.",
+    "Kirim bukti pembayaran dengan cara upload foto bukti transfer atau bukti pembayaran untuk transaksi ini.": "Kirim bukti pembayaran dengan cara upload foto bukti transfer atau bukti pembayaran untuk transaksi ini.",
+    "Nomor Invoice Pesanan Kamu Adalah": "Nomor Invoice Pesanan Kamu Adalah",
+    "Kirim Bukti Bayar": "Kirim Bukti Bayar",
+    "Pesanan Kamu": "Pesanan Kamu",
+    "Berikut nomor invoice pesanan kamu! Mohon tunjukan ke driver motor/mobil Getall yang datang.": "Berikut nomor invoice pesanan kamu! Mohon tunjukan ke driver motor/mobil Getall yang datang.",
+    "Pembayaran Diverifikasi": "Pembayaran Diverifikasi",
+    "Pesanan COD Berhasil": "Pesanan COD Berhasil",
+    "Terimakasih! Barang akan segera dikirim ke rumahmu!": "Terimakasih! Barang akan segera dikirim ke rumahmu!",
+    "Detail Status Pemesanan": "Detail Status Pemesanan",
+    "Belum ada riwayat status pemesanan.": "Belum ada riwayat status pemesanan.",
+    "Transfer Menuju": "Transfer Menuju",
+    "Nama Bank": "Nama Bank",
+    "No. Rekening": "No. Rekening",
+    "Atas Nama": "Atas Nama",
+    "Pemesanan dibuat": "Pemesanan dibuat",
+    "Bukti pembayaran dikirim": "Bukti pembayaran dikirim",
+    "Pembayaran sudah diverifikasi\nPembayaran sudah diterima": "Pembayaran sudah diverifikasi\nPembayaran sudah diterima",
+    "Barang sedang dikirim": "Barang sedang dikirim",
+    "Barang sampai di tujuan": "Barang sampai di tujuan",
+    "Barang diterima": "Barang diterima",
+
+    // Transaction Detail
+    "Transaksi belum dapat ditampilkan.": "Transaksi belum dapat ditampilkan.",
+    "Transaksi tidak dapat ditemukan": "Transaksi tidak dapat ditemukan",
+    "Kembali": "Kembali",
+
+    // Promotion List
+    "Saat ini belum ada Promotion": "Saat ini belum ada Promotion",
+
+    // Promotion Detail
+    "Promotion tidak tersedia": "Promotion tidak tersedia"
+
+}

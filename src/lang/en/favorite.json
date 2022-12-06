@@ -1,0 +1,9 @@
+{
+    // Navigation Titles
+    "Favorit": "Favorite",
+
+    // Favorite
+    "Produk Favorit": "Favorite Products",
+    "Belum ada produk favorit": "No favorite products yet",
+    "Sudah menampilkan semua produk": "All products has been displayed"
+}
